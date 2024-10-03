@@ -1,4 +1,7 @@
 tmp
 *.pkl
 *.csv
-yolo*
+*.xlsx
+*.zip
+yolo
+data
