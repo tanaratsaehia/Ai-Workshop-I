@@ -3,5 +3,5 @@ tmp
 *.csv
 *.xlsx
 *.zip
-yolo
+yolo*
 data
