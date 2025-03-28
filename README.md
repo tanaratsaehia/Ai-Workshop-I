@@ -1,0 +1,1 @@
+This repository for CP412703 AI-Workshop I @KKU
